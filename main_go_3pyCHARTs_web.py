@@ -1,13 +1,3 @@
-# --------------------------------------------------------------------------------
-# Tobias Haueter                                                        2021-09-27
-# Chart plotting software for .csv files on localhost web browser.
-# .csv -> comma separated value
-#
-# sudo apt install python3-plotly
-# https://plotly.com/python/subplots/
-# --------------------------------------------------------------------------------
-
-
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
