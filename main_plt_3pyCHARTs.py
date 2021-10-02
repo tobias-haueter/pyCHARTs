@@ -1,11 +1,3 @@
-# --------------------------------------------------------------------------------
-# Tobias Haueter                                                        2021-09-27
-# Chart plotting software for ".csv" files.
-#
-# 3 Stack Subplot Charts with legend and cursor
-# --------------------------------------------------------------------------------
-
-
 import matplotlib.pyplot as plt
 import mplcursors
 import csv
