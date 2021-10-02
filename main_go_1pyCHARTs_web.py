@@ -10,7 +10,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # read csv file and choose the delimiter.
-df = pd.read_csv('dataframe.pycharts', delimiter=',')  # <TAB>: delimiter='\t'
+df = pd.read_csv('testDATA/dataframe.pycharts', delimiter=',')  # <TAB>: delimiter='\t'
 
 # Initialize figure with subplots
 fig = go.Figure()
