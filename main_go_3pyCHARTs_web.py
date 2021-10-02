@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # read csv file and choose the delimiter.
-df = pd.read_csv('dataframe.pycharts', delimiter=',')  # <TAB>: delimiter='\t'
+df = pd.read_csv('testDATA/dataframe.pycharts', delimiter=',')  # <TAB>: delimiter='\t'
 
 # Initialize figure with subplots
 fig = make_subplots(
