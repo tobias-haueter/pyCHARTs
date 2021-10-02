@@ -1,11 +1,3 @@
-# --------------------------------------------------------------------------------
-# Tobias Haueter                                                        2021-09-27
-# Chart plotting software for .csv files.
-#
-# One Chart Plot with 3 lines, legend and cursor
-# --------------------------------------------------------------------------------
-
-
 import matplotlib.pyplot as plt
 import mplcursors
 import csv
