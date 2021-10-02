@@ -20,7 +20,7 @@ y3 = []
 
 
 # Open csv file and choose the delimiter.
-with open('dataframe.pycharts', 'r') as data_csv:
+with open('testDATA/dataframe.pycharts', 'r') as data_csv:
     plots = csv.reader(data_csv, delimiter=',')  # <TAB>: delimiter='\t'
 
     # skip first line -> no errors if are string header placed
