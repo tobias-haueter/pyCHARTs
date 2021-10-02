@@ -1,11 +1,3 @@
-# --------------------------------------------------------------------------------
-# Tobias Haueter                                                        2021-09-27
-# Chart plotting software for .csv files on localhost web browser.
-#
-# sudo apt install python3-plotly
-# --------------------------------------------------------------------------------
-
-
 import pandas as pd
 import plotly.graph_objects as go
 
